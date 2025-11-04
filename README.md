@@ -43,3 +43,5 @@ Data Cleaning Summary
     o Float64
     o Object
     o Bool 
+
+Link to Tableau: https://public.tableau.com/views/EX6_7/EX6_7Presentation?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
