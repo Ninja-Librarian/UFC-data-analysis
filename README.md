@@ -1,7 +1,7 @@
 # UFC-fight-analysis
 UFC fight data from 1993 to 2021
 
-The data is about UFC fights between 1994 and 2021. The fights took place all over the world. The data includes physical attributes of the fighters, career statistics, various fight statistics like number of body shots thrown versus number landed and win condition. 	   
+The data is about UFC fights between 1993 and 2021. The fights took place all over the world. The data includes physical attributes of the fighters, career statistics, various fight statistics like number of body shots thrown versus number landed and win condition. 	   
 
 Data Source: https://www.kaggle.com/datasets/rajeevw/ufcdata  
 The data is sourced from Kaggle and includes a list of every UFC fight from 1994 to 2021.
@@ -15,12 +15,12 @@ The data was scraped from ufcstats website using beatifulsoup. Pandas was used t
 process the data.
 
 Data Limitations:
-• Data is from 1994 – 2021
+• Data is from 1993 – 2021
 • How the data was originally collected is unknown so there may be inaccuracies.
 • A lot of values are missing
 
 Why this data?
-Because UFC is cool and finding my own data was really hard.
+Because UFC is cool.
 
 Ethical Considerations:
 The names of real people are included in the data. The data is part of open-source
@@ -40,6 +40,6 @@ Data Cleaning Summary
   • Irrelevant columns: none
   • Data types
     o Int64
-    o  Float64
+    o Float64
     o Object
     o Bool 
