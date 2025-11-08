@@ -45,3 +45,5 @@ Data Cleaning Summary
     o Bool 
 
 Link to Tableau: https://public.tableau.com/views/EX6_7/EX6_7Presentation?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Link to PowerPoint presentation: https://docs.google.com/presentation/d/1inziB7Vs1ELlu5Yu3RqmgkqHgGg1-BjV/edit?usp=sharing&ouid=116770463771739110199&rtpof=true&sd=true
